@@ -3,7 +3,7 @@ const dataHocLieu = {
         ten_truong: "THPT KỲ SƠN",
         zalo: "0978 909 379",
         facebook_link: "https://www.facebook.com/dungcot09090",
-        link_ai_tro_ly: "https://www.coze.com/store/agent/7598236198981091381"
+        link_ai_tro_ly: "https://www.coze.com/store/agent/7598236198981091381?bot_id=true"
     },
     bai_hoc: [
         { id: 1, tieu_de: "BÀI 2: THIẾT BỊ THÔNG MINH", mo_ta: "PHÂN LOẠI THIẾT BỊ.", link: "baihoc/bai2_k10/index.html", icon: "📱", phan_loai: "Lớp 10" },
@@ -27,4 +27,5 @@ const dataHocLieu = {
     },
     danh_sach_video: [{ id: 1, tieu_de: "BÀI GIẢNG PYTHON", link: "#", icon: "🎬" }]
 };
+
 
