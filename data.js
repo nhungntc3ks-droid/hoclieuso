@@ -6,18 +6,11 @@ const dataHocLieu = {
         link_ai_tro_ly: "https://www.coze.com/s/Za8nHrfvF/"
     },
     bai_hoc: [
-        { id: 1, tieu_de: "BÀI 17: BIẾN VÀ LỆNH GÁN", mo_ta: "Tự học", link: "https://bai17-tuhoc.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
-	{ id: 2, tieu_de: "BÀI 17: BIẾN VÀ LỆNH GÁN", mo_ta: " Luyện tập", link: "https://bai17-luyentap.vercel.app", icon: "📝", phan_loai: "Lớp 10" },
-	{ id: 3, tieu_de: "BÀI 17: BIẾN VÀ LỆNH GÁN", mo_ta: "Kiểm tra, đánh giá", link: "https://bai17-kiemtra.vercel.app", icon: "✅", phan_loai: "Lớp 10" },
-    { id: 4, tieu_de: "BÀI 18:CÁC LỆNH VÀO RA ĐƠN GIẢN", mo_ta: "Tự học", link: "https://bai18-tuhoc.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
-	{ id: 5, tieu_de: "BÀI 18:CÁC LỆNH VÀO RA ĐƠN GIẢN", mo_ta: "Luyện tập", link: "https://bai18-luyentap.vercel.app", icon: "📝", phan_loai: "Lớp 10" },
-	{ id: 6, tieu_de: "BÀI 18:CÁC LỆNH VÀO RA ĐƠN GIẢN", mo_ta: " Kiểm tra, đánh giá", link: "https://bai18-kiemtra.vercel.app", icon: "✅", phan_loai: "Lớp 10" },
- 	{ id: 7, tieu_de: "BÀI 19: CÂU LẸNH RẼ NHÁNH IF", mo_ta: "Tự học ", link: "https://bai19-tuhoc.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
-	{ id: 8, tieu_de: "BÀI 19: CÂU LẸNH RẼ NHÁNH IF", mo_ta: "Luyện tập", link: "https://bai19-luyentap.vercel.app", icon: "📝", phan_loai: "Lớp 10" },
-	{ id: 9, tieu_de: "BÀI 19: CÂU LẸNH RẼ NHÁNH IF", mo_ta: " Kiểm tra, đánh giá", link: "https://bai19-kiemtra.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" },
-    { id: 10, tieu_de: "BÀI 20: CÂU LẸNH lẶP FOR", mo_ta: "Tự học ", link: "https://bai20-tuhoc.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
-	{ id: 11, tieu_de: "BÀI 20: CÂU LẸNH lẶP FOR", mo_ta: "Luyện tập", link: "https://bai20-luyentap.vercel.app", icon: "📝", phan_loai: "Lớp 10" },
-	{ id: 12, tieu_de: "BÀI 20: CÂU LẸNH lẶP FOR", mo_ta: " Kiểm tra, đánh giá", link: "https://bai20-kiemtra.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" },
+    { id: 1, tieu_de: "BÀI 17: BIẾN VÀ LỆNH GÁN", mo_ta: "TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai17.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
+	{ id: 2, tieu_de: "BÀI 18:CÁC LỆNH VÀO RA ĐƠN GIẢN", mo_ta: "TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai18-tuhoc.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
+	{ id: 3, tieu_de: "BÀI 19: CÂU LẸNH RẼ NHÁNH IF", mo_ta: "TỰ HỌC - LUYỆN TẬP - KIỂM TRA ", link: "https://bai19.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
+	{ id: 4, tieu_de: "BÀI 20: CÂU LẸNH lẶP FOR", mo_ta: " TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai20.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" },
+	{ id: 5, tieu_de: "BÀI 21: CÂU LẸNH lẶP FOR", mo_ta: " TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai20.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" },
     
     ],
     prompts_ai: {
