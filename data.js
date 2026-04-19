@@ -10,9 +10,8 @@ const dataHocLieu = {
 	{ id: 2, tieu_de: "BÀI 18:CÁC LỆNH VÀO RA ĐƠN GIẢN", mo_ta: "TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai18-tuhoc.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
 	{ id: 3, tieu_de: "BÀI 19: CÂU LẸNH RẼ NHÁNH IF", mo_ta: "TỰ HỌC - LUYỆN TẬP - KIỂM TRA ", link: "https://bai19.vercel.app", icon: "📖", phan_loai: "Lớp 10" },
 	{ id: 4, tieu_de: "BÀI 20: CÂU LẸNH lẶP FOR", mo_ta: " TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai20.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" },
-	{ id: 5, tieu_de: "BÀI 21: CÂU LẸNH lẶP FOR", mo_ta: " TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai20.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" },
-    
-    ],
+	{ id: 5, tieu_de: "BÀI 21: CÂU LẸNH lẶP FOR", mo_ta: " TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai20.vercel.app", icon: "•	✅", phan_loai: "Lớp 10" }
+      ],
     prompts_ai: {
         tro_choi: [{ id: 1, tieu_de: "TẠO TRÒ CHƠI Ô CHỮ", icon: "🧩", noi_dung_prompt: "Hãy đóng vai chuyên gia giáo dục tạo bộ câu hỏi ô chữ..." }],
         kiem_tra: [{ id: 1, tieu_de: "ĐỀ KIỂM TRA 15 PHÚT", icon: "📝", noi_dung_prompt: "Tạo 10 câu trắc nghiệm Tin học 10 về chủ đề..." }]
