@@ -14,7 +14,7 @@ const dataHocLieu = {
 	{ id: 6, tieu_de: "BÀI 22: KIỂU DỮ LIỆU DANH SÁCH", mo_ta: " TỰ HỌC - LUYỆN TẬP - KIỂM TRA", link: "https://bai22-python.vercel.app", icon: "✍️", phan_loai: "Lớp 10" },
       ],
     prompts_ai: {
-        tro_choi: [{ id: 1, tieu_de: "TẠO TRÒ CHƠI Ô CHỮ", icon: "🧩", noi_dung_prompt: "Hãy đóng vai chuyên gia giáo dục tạo bộ câu hỏi ô chữ..." }],
+        tro_choi: [{ id: 1, tieu_de: "TẠO TRÒ CHƠI Ô CHỮ", icon: "🧩", link: "https://promtp-hoclieuso.vercel.app",noi_dung_prompt: "mẫu promt đã tích hợp kỷ thuật" }],
         kiem_tra: [{ id: 1, tieu_de: "ĐỀ KIỂM TRA 15 PHÚT", icon: "📝", noi_dung_prompt: "Tạo 10 câu trắc nghiệm Tin học 10 về chủ đề..." }]
     },
     danh_sach_video: [{ id: 1, tieu_de: "BÀI GIẢNG PYTHON", link: "#", icon: "🎬" }]
